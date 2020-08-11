@@ -1,3 +1,6 @@
+// https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=virtusa
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
